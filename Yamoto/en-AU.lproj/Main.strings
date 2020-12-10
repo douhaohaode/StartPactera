@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "repeated password validation"; ObjectID = "CIo-Zt-rDi"; */
+"CIo-Zt-rDi.text" = "repeated password validation";
+
+/* Class = "UILabel"; text = "Proving that observable sequences have wanted properties (UIThread, errors handled, sharing of side effects) is done automatically by `Driver`. (it is little slower then vanilla observables, but that shouldn't be noticeable in practice)\n\nCheck out the same example using vanilla observable sequences."; ObjectID = "M0y-tG-67y"; */
+"M0y-tG-67y.text" = "Proving that observable sequences have wanted properties (UIThread, errors handled, sharing of side effects) is done automatically by `Driver`. (it is little slower then vanilla observables, but that shouldn't be noticeable in practice)\n\nCheck out the same example using vanilla observable sequences.";
+
+/* Class = "UITextField"; placeholder = "password Repeat"; ObjectID = "guc-bJ-bXN"; */
+"guc-bJ-bXN.placeholder" = "password Repeat";
+
+/* Class = "UILabel"; text = "password validation"; ObjectID = "iG2-IC-vgh"; */
+"iG2-IC-vgh.text" = "password validation";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "piV-oC-937"; */
+"piV-oC-937.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "username validation"; ObjectID = "pyQ-6G-2Gv"; */
+"pyQ-6G-2Gv.text" = "username validation";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "u4a-oh-xko"; */
+"u4a-oh-xko.placeholder" = "Username";

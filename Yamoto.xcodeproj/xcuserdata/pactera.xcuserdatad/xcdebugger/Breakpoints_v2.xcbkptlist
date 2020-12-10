@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F9F93BE-0140-4468-BA75-20C2B8EAB8A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "7544DEA1-6E0B-45CD-9AFF-CFF3BA2528AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "6D73688D-F684-40C1-95BF-A81E4621D6AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F86CEF0-E3B4-4651-8C8F-2C9BC72BE767"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "collectionSkeletonView(_:cellIdentifierForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C6ED950-DD56-4870-99DE-5ECEE3E9FEBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "RxCollectionViewSkeletonedAnimatedDataSource"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5C6ED950-DD56-4870-99DE-5ECEE3E9FEBD - ec6f922a2095b27e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yamoto.RxCollectionViewSkeletonedAnimatedDataSource.reuseIdentifierForItemAtIndexPath.getter : (Yamoto.RxCollectionViewSkeletonedAnimatedDataSource&lt;A&gt;, __C.UICollectionView, Foundation.IndexPath) -&gt; Swift.String"
+                  moduleName = "Yamoto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pactera/Desktop/Yamoto/Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "5C6ED950-DD56-4870-99DE-5ECEE3E9FEBD - ec6f922a2095b27e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yamoto.RxCollectionViewSkeletonedAnimatedDataSource.reuseIdentifierForItemAtIndexPath.setter : (Yamoto.RxCollectionViewSkeletonedAnimatedDataSource&lt;A&gt;, __C.UICollectionView, Foundation.IndexPath) -&gt; Swift.String"
+                  moduleName = "Yamoto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pactera/Desktop/Yamoto/Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "5C6ED950-DD56-4870-99DE-5ECEE3E9FEBD - 5a3eebbf293c8e7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yamoto.RxCollectionViewSkeletonedAnimatedDataSource.reuseIdentifierForItemAtIndexPath.modify : (Yamoto.RxCollectionViewSkeletonedAnimatedDataSource&lt;A&gt;, __C.UICollectionView, Foundation.IndexPath) -&gt; Swift.String"
+                  moduleName = "Yamoto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pactera/Desktop/Yamoto/Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "5C6ED950-DD56-4870-99DE-5ECEE3E9FEBD - 7b28d3c7e888dd34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yamoto.RxCollectionViewSkeletonedAnimatedDataSource.reuseIdentifierForItemAtIndexPath.modify : (Yamoto.RxCollectionViewSkeletonedAnimatedDataSource&lt;A&gt;, __C.UICollectionView, Foundation.IndexPath) -&gt; Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Yamoto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pactera/Desktop/Yamoto/Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47645D88-26B7-45EA-8E7F-4ED7A740A6BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yamoto/Common/Utility/RXSkeletonView/RxCollectionViewSkeletonedAnimatedDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "init(animationConfiguration:decideViewTransition:configureCell:configureSupplementaryView:moveItem:canMoveItemAtIndexPath:numberOfSections:numberOfItemsInSection:reuseIdentifierForItemAtIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
